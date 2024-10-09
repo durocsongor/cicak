@@ -1,0 +1,7 @@
+C:\Users\tanulo\source\repos\valami\valami\bin\Debug\valami.exe.config
+C:\Users\tanulo\source\repos\valami\valami\bin\Debug\valami.exe
+C:\Users\tanulo\source\repos\valami\valami\bin\Debug\valami.pdb
+C:\Users\tanulo\source\repos\valami\valami\obj\Debug\valami.csprojAssemblyReference.cache
+C:\Users\tanulo\source\repos\valami\valami\obj\Debug\valami.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\valami\valami\obj\Debug\valami.exe
+C:\Users\tanulo\source\repos\valami\valami\obj\Debug\valami.pdb
